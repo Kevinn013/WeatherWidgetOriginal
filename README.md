@@ -11,6 +11,9 @@ A lightweight, transparent and resizable weather widget for Windows, built with 
 - Remembers window position and size between sessions.
 - Saves the country code and used temperature unit.
 - Refreshes weather data every 15 minutes.
+- Color the widget in the menu!
+- Fully working opacity slider
+- Added a refresh option in case of using a paid API
 
 No API key required.
 
